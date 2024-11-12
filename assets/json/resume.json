@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Martin Stobbelaar",
-    "label": "In Ausbildung/Studium: Paris Lodron Universität Salzburg",
+    "label": "Masterstudent, Paris-Lodron-Universität Salzburg",
     "image": "",
     "email": "martinstobbelaar@yahoo.de",
     "phone": "",
@@ -134,21 +134,18 @@
     }
   ],
   "languages": [
-    {
-      "language": "de",
-      "fluency": "Native Speaker"
-    },
+
     {
       "fluency": "Native Speaker",
-      "language": "Deutsch"
+      "language": "German"
     },
     {
       "fluency": "Full Professional",
-      "language": "Englisch"
+      "language": "English"
     },
     {
       "fluency": "Full Professional",
-      "language": "Niederländisch"
+      "language": "Dutch"
     }
   ],
   "interests": [],

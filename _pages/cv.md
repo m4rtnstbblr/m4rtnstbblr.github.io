@@ -3,9 +3,9 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
+nav_order: 2
 cv_pdf: Stobbelaar_Lebenslauf.pdf
-description: This is my CV. You can also download the german version as a PDF.
+description: This is my CV. You can also download the PDF version (in german).
 toc:
   sidebar: left
 ---
