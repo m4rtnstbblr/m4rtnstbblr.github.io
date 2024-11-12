@@ -10,7 +10,7 @@ related_publications: false
 
 This project was developed for the SDI course of the Geoinformatics Master. 
 
-<object data="assets/pdf/SahinovicStobbelaar_MIGE_FinalDocumentation.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="SahinovicStobbelaar_MIGE_FinalDocumentation.pdf" width="500" height="500" type='application/pdf'/>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
