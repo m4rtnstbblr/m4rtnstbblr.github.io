@@ -1,1399 +1,161 @@
 {
-  "filename": "Stobbelaar_Lebenslauf.pdf",
-  "page_data": [
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Martin Stobbelaar",
+    "label": "In Ausbildung/Studium: Paris Lodron Universität Salzburg",
+    "image": "",
+    "email": "martinstobbelaar@yahoo.de",
+    "phone": "",
+    "url": "https://m4rtnstbblr.github.io",
+    "summary": "",
+    "location": {
+      "countryCode": "AT",
+      "address": "Österreich"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "martin-stobbelaar-748506243",
+        "url": "https://www.linkedin.com/in/martin-stobbelaar-748506243/"
+      }
+    ]
+  },
+  "work": [
     {
-      "page": 0,
-      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/e316b9a9-1087-415e-a5ef-2451907feead-1.jpeg?ik-s=30de5d74d45574491f93d8a72c6d82bbb4bcd231&ik-t=1731414144",
-      "size": {
-        "width": 2479,
-        "height": 3508
-      },
-      "words": [
-        {
-          "text": "Lebenslauf",
-          "xmin": 304,
-          "ymin": 268,
-          "xmax": 867,
-          "ymax": 359
-        },
-        {
-          "text": "Name",
-          "xmin": 297,
-          "ymin": 465,
-          "xmax": 403,
-          "ymax": 496
-        },
-        {
-          "text": "Martin",
-          "xmin": 881,
-          "ymin": 466,
-          "xmax": 992,
-          "ymax": 496
-        },
-        {
-          "text": "Stobbelaar",
-          "xmin": 1008,
-          "ymin": 464,
-          "xmax": 1202,
-          "ymax": 496
-        },
-        {
-          "text": "Anschrift",
-          "xmin": 296,
-          "ymin": 546,
-          "xmax": 462,
-          "ymax": 578
-        },
-        {
-          "text": "Sollheir",
-          "xmin": 880,
-          "ymin": 547,
-          "xmax": 1030,
-          "ymax": 578
-        },
-        {
-          "text": "4/2",
-          "xmin": 1047,
-          "ymin": 548,
-          "xmax": 1104,
-          "ymax": 578
-        },
-        {
-          "text": "5300",
-          "xmin": 881,
-          "ymin": 615,
-          "xmax": 967,
-          "ymax": 644
-        },
-        {
-          "text": "Hallwang",
-          "xmin": 984,
-          "ymin": 614,
-          "xmax": 1148,
-          "ymax": 653
-        },
-        {
-          "text": "E-Mail",
-          "xmin": 297,
-          "ymin": 696,
-          "xmax": 406,
-          "ymax": 729
-        },
-        {
-          "text": "martin.stobbelaar@stud",
-          "xmin": 880,
-          "ymin": 697,
-          "xmax": 1316,
-          "ymax": 734
-        },
-        {
-          "text": "plus.ac.at",
-          "xmin": 1323,
-          "ymin": 697,
-          "xmax": 1502,
-          "ymax": 732
-        },
-        {
-          "text": "Mobil",
-          "xmin": 297,
-          "ymin": 780,
-          "xmax": 396,
-          "ymax": 811
-        },
-        {
-          "text": "+43",
-          "xmin": 880,
-          "ymin": 782,
-          "xmax": 943,
-          "ymax": 811
-        },
-        {
-          "text": "6703576780",
-          "xmin": 960,
-          "ymin": 781,
-          "xmax": 1184,
-          "ymax": 811
-        },
-        {
-          "text": "geb.",
-          "xmin": 296,
-          "ymin": 866,
-          "xmax": 368,
-          "ymax": 902
-        },
-        {
-          "text": "4.",
-          "xmin": 879,
-          "ymin": 865,
-          "xmax": 906,
-          "ymax": 893
-        },
-        {
-          "text": "|",
-          "xmin": 905,
-          "ymin": 870,
-          "xmax": 922,
-          "ymax": 886
-        },
-        {
-          "text": "August",
-          "xmin": 922,
-          "ymin": 865,
-          "xmax": 1048,
-          "ymax": 903
-        },
-        {
-          "text": "1999",
-          "xmin": 1064,
-          "ymin": 865,
-          "xmax": 1148,
-          "ymax": 893
-        },
-        {
-          "text": "Berufliche",
-          "xmin": 300,
-          "ymin": 1127,
-          "xmax": 590,
-          "ymax": 1178
-        },
-        {
-          "text": "Laufbahn",
-          "xmin": 614,
-          "ymin": 1127,
-          "xmax": 882,
-          "ymax": 1179
-        },
-        {
-          "text": "September",
-          "xmin": 297,
-          "ymin": 1294,
-          "xmax": 496,
-          "ymax": 1329
-        },
-        {
-          "text": "2019",
-          "xmin": 508,
-          "ymin": 1294,
-          "xmax": 597,
-          "ymax": 1324
-        },
-        {
-          "text": "|",
-          "xmin": 611,
-          "ymin": 1310,
-          "xmax": 619,
-          "ymax": 1313
-        },
-        {
-          "text": "Februar",
-          "xmin": 635,
-          "ymin": 1294,
-          "xmax": 775,
-          "ymax": 1324
-        },
-        {
-          "text": "Planungsgesellschaft",
-          "xmin": 881,
-          "ymin": 1292,
-          "xmax": 1267,
-          "ymax": 1332
-        },
-        {
-          "text": "Stadt",
-          "xmin": 1280,
-          "ymin": 1294,
-          "xmax": 1374,
-          "ymax": 1324
-        },
-        {
-          "text": "Land",
-          "xmin": 1389,
-          "ymin": 1294,
-          "xmax": 1472,
-          "ymax": 1324
-        },
-        {
-          "text": "Verkehr",
-          "xmin": 1488,
-          "ymin": 1294,
-          "xmax": 1625,
-          "ymax": 1324
-        },
-        {
-          "text": "Munchen",
-          "xmin": 1644,
-          "ymin": 1294,
-          "xmax": 1809,
-          "ymax": 1324
-        },
-        {
-          "text": "2020",
-          "xmin": 296,
-          "ymin": 1360,
-          "xmax": 384,
-          "ymax": 1389
-        },
-        {
-          "text": "Praktikum",
-          "xmin": 881,
-          "ymin": 1360,
-          "xmax": 1058,
-          "ymax": 1389
-        },
-        {
-          "text": "in",
-          "xmin": 1075,
-          "ymin": 1360,
-          "xmax": 1102,
-          "ymax": 1389
-        },
-        {
-          "text": "der",
-          "xmin": 1117,
-          "ymin": 1361,
-          "xmax": 1172,
-          "ymax": 1389
-        },
-        {
-          "text": "Verkehrsplanung",
-          "xmin": 1185,
-          "ymin": 1359,
-          "xmax": 1486,
-          "ymax": 1398
-        },
-        {
-          "text": "Aufgaben",
-          "xmin": 879,
-          "ymin": 1425,
-          "xmax": 1050,
-          "ymax": 1463
-        },
-        {
-          "text": "StraBenbestandsklassifizierunger",
-          "xmin": 1073,
-          "ymin": 1425,
-          "xmax": 1683,
-          "ymax": 1464
-        },
-        {
-          "text": "Verkehrsprognosen",
-          "xmin": 1706,
-          "ymin": 1427,
-          "xmax": 2056,
-          "ymax": 1467
-        },
-        {
-          "text": "Verkehrszahlungen,",
-          "xmin": 879,
-          "ymin": 1492,
-          "xmax": 1231,
-          "ymax": 1531
-        },
-        {
-          "text": "Verkehrsuntersuchunger",
-          "xmin": 1255,
-          "ymin": 1493,
-          "xmax": 1707,
-          "ymax": 1530
-        },
-        {
-          "text": "Verkehrsbefragung",
-          "xmin": 1729,
-          "ymin": 1491,
-          "xmax": 2071,
-          "ymax": 1531
-        },
-        {
-          "text": "Uberprufung",
-          "xmin": 880,
-          "ymin": 1555,
-          "xmax": 1104,
-          "ymax": 1598
-        },
-        {
-          "text": "Befahrbarkeit",
-          "xmin": 1120,
-          "ymin": 1558,
-          "xmax": 1358,
-          "ymax": 1591
-        },
-        {
-          "text": "von",
-          "xmin": 1372,
-          "ymin": 1568,
-          "xmax": 1433,
-          "ymax": 1589
-        },
-        {
-          "text": "Tiefgaragen",
-          "xmin": 1448,
-          "ymin": 1558,
-          "xmax": 1661,
-          "ymax": 1600
-        },
-        {
-          "text": "und",
-          "xmin": 1676,
-          "ymin": 1561,
-          "xmax": 1740,
-          "ymax": 1589
-        },
-        {
-          "text": "Anlieferung",
-          "xmin": 1754,
-          "ymin": 1558,
-          "xmax": 1957,
-          "ymax": 1598
-        },
-        {
-          "text": "mit",
-          "xmin": 1972,
-          "ymin": 1560,
-          "xmax": 2028,
-          "ymax": 1589
-        },
-        {
-          "text": "Fahrkurven",
-          "xmin": 881,
-          "ymin": 1627,
-          "xmax": 1077,
-          "ymax": 1658
-        },
-        {
-          "text": "Erstellung",
-          "xmin": 1103,
-          "ymin": 1626,
-          "xmax": 1278,
-          "ymax": 1664
-        },
-        {
-          "text": "von",
-          "xmin": 1292,
-          "ymin": 1635,
-          "xmax": 1354,
-          "ymax": 1658
-        },
-        {
-          "text": "CAD",
-          "xmin": 1370,
-          "ymin": 1627,
-          "xmax": 1444,
-          "ymax": 1658
-        },
-        {
-          "text": "Planen",
-          "xmin": 1461,
-          "ymin": 1626,
-          "xmax": 1578,
-          "ymax": 1658
-        },
-        {
-          "text": "Juni",
-          "xmin": 296,
-          "ymin": 1711,
-          "xmax": 371,
-          "ymax": 1740
-        },
-        {
-          "text": "2015",
-          "xmin": 385,
-          "ymin": 1710,
-          "xmax": 474,
-          "ymax": 1740
-        },
-        {
-          "text": "-",
-          "xmin": 488,
-          "ymin": 1726,
-          "xmax": 495,
-          "ymax": 1728
-        },
-        {
-          "text": "Juni",
-          "xmin": 510,
-          "ymin": 1710,
-          "xmax": 586,
-          "ymax": 1740
-        },
-        {
-          "text": "2015",
-          "xmin": 600,
-          "ymin": 1710,
-          "xmax": 691,
-          "ymax": 1740
-        },
-        {
-          "text": "Sky,",
-          "xmin": 880,
-          "ymin": 1710,
-          "xmax": 946,
-          "ymax": 1748
-        },
-        {
-          "text": "Unterfohring",
-          "xmin": 961,
-          "ymin": 1708,
-          "xmax": 1185,
-          "ymax": 1749
-        },
-        {
-          "text": "2",
-          "xmin": 879,
-          "ymin": 1777,
-          "xmax": 896,
-          "ymax": 1803
-        },
-        {
-          "text": "Wochen",
-          "xmin": 892,
-          "ymin": 1777,
-          "xmax": 1055,
-          "ymax": 1808
-        },
-        {
-          "text": "Schulpraktikum",
-          "xmin": 1071,
-          "ymin": 1776,
-          "xmax": 1349,
-          "ymax": 1813
-        },
-        {
-          "text": "Abteilung",
-          "xmin": 879,
-          "ymin": 1842,
-          "xmax": 1047,
-          "ymax": 1880
-        },
-        {
-          "text": "Business",
-          "xmin": 1072,
-          "ymin": 1843,
-          "xmax": 1230,
-          "ymax": 1874
-        },
-        {
-          "text": "&",
-          "xmin": 1245,
-          "ymin": 1843,
-          "xmax": 1265,
-          "ymax": 1873
-        },
-        {
-          "text": "Distribution",
-          "xmin": 1283,
-          "ymin": 1843,
-          "xmax": 1485,
-          "ymax": 1874
-        },
-        {
-          "text": "Services",
-          "xmin": 1501,
-          "ymin": 1843,
-          "xmax": 1650,
-          "ymax": 1874
-        },
-        {
-          "text": "Bereich",
-          "xmin": 1675,
-          "ymin": 1843,
-          "xmax": 1803,
-          "ymax": 1874
-        },
-        {
-          "text": "Product",
-          "xmin": 1820,
-          "ymin": 1843,
-          "xmax": 1959,
-          "ymax": 1874
-        },
-        {
-          "text": "&",
-          "xmin": 1972,
-          "ymin": 1843,
-          "xmax": 1994,
-          "ymax": 1873
-        },
-        {
-          "text": "Operations",
-          "xmin": 2010,
-          "ymin": 1843,
-          "xmax": 2201,
-          "ymax": 1880
-        },
-        {
-          "text": "Aufgaben",
-          "xmin": 879,
-          "ymin": 1908,
-          "xmax": 1050,
-          "ymax": 1946
-        },
-        {
-          "text": "Zusammenstellen",
-          "xmin": 1073,
-          "ymin": 1909,
-          "xmax": 1395,
-          "ymax": 1940
-        },
-        {
-          "text": "von",
-          "xmin": 1411,
-          "ymin": 1918,
-          "xmax": 1472,
-          "ymax": 1940
-        },
-        {
-          "text": "PowerPoint",
-          "xmin": 1489,
-          "ymin": 1910,
-          "xmax": 1694,
-          "ymax": 1940
-        },
-        {
-          "text": "Prasentationen",
-          "xmin": 1709,
-          "ymin": 1910,
-          "xmax": 1979,
-          "ymax": 1940
-        },
-        {
-          "text": "sowie",
-          "xmin": 1994,
-          "ymin": 1910,
-          "xmax": 2096,
-          "ymax": 1940
-        },
-        {
-          "text": "Durchfuhrungen",
-          "xmin": 881,
-          "ymin": 1975,
-          "xmax": 1170,
-          "ymax": 2014
-        },
-        {
-          "text": "von",
-          "xmin": 1184,
-          "ymin": 1985,
-          "xmax": 1244,
-          "ymax": 2007
-        },
-        {
-          "text": "Sicherheitstests",
-          "xmin": 1260,
-          "ymin": 1977,
-          "xmax": 1548,
-          "ymax": 2008
-        },
-        {
-          "text": "Ausbildung",
-          "xmin": 296,
-          "ymin": 2144,
-          "xmax": 623,
-          "ymax": 2207
-        },
-        {
-          "text": "Oktober",
-          "xmin": 296,
-          "ymin": 2309,
-          "xmax": 441,
-          "ymax": 2340
-        },
-        {
-          "text": "2021",
-          "xmin": 454,
-          "ymin": 2310,
-          "xmax": 537,
-          "ymax": 2340
-        },
-        {
-          "text": "|",
-          "xmin": 557,
-          "ymin": 2326,
-          "xmax": 564,
-          "ymax": 2329
-        },
-        {
-          "text": "heute",
-          "xmin": 579,
-          "ymin": 2311,
-          "xmax": 677,
-          "ymax": 2340
-        },
-        {
-          "text": "Paris-Lodron-Universita",
-          "xmin": 881,
-          "ymin": 2310,
-          "xmax": 1315,
-          "ymax": 2340
-        },
-        {
-          "text": "Salzburg",
-          "xmin": 1328,
-          "ymin": 2309,
-          "xmax": 1483,
-          "ymax": 2349
-        },
-        {
-          "text": "Masterstudi",
-          "xmin": 881,
-          "ymin": 2376,
-          "xmax": 1093,
-          "ymax": 2406
-        },
-        {
-          "text": "ium",
-          "xmin": 1089,
-          "ymin": 2376,
-          "xmax": 1151,
-          "ymax": 2406
-        },
-        {
-          "text": "Applied",
-          "xmin": 1176,
-          "ymin": 2375,
-          "xmax": 1304,
-          "ymax": 2412
-        },
-        {
-          "text": "Geoinformatics",
-          "xmin": 1323,
-          "ymin": 2374,
-          "xmax": 1598,
-          "ymax": 2406
-        },
-        {
-          "text": "Oktober",
-          "xmin": 296,
-          "ymin": 2459,
-          "xmax": 441,
-          "ymax": 2491
-        },
-        {
-          "text": "2017",
-          "xmin": 453,
-          "ymin": 2460,
-          "xmax": 543,
-          "ymax": 2491
-        },
-        {
-          "text": "|",
-          "xmin": 556,
-          "ymin": 2476,
-          "xmax": 566,
-          "ymax": 2480
-        },
-        {
-          "text": "September",
-          "xmin": 579,
-          "ymin": 2460,
-          "xmax": 778,
-          "ymax": 2497
-        },
-        {
-          "text": "Hochschule",
-          "xmin": 881,
-          "ymin": 2459,
-          "xmax": 1091,
-          "ymax": 2491
-        },
-        {
-          "text": "fur",
-          "xmin": 1107,
-          "ymin": 2458,
-          "xmax": 1153,
-          "ymax": 2491
-        },
-        {
-          "text": "angewandte",
-          "xmin": 1167,
-          "ymin": 2461,
-          "xmax": 1387,
-          "ymax": 2497
-        },
-        {
-          "text": "Wissenschaften",
-          "xmin": 1401,
-          "ymin": 2458,
-          "xmax": 1688,
-          "ymax": 2491
-        },
-        {
-          "text": "Munchen",
-          "xmin": 1706,
-          "ymin": 2460,
-          "xmax": 1869,
-          "ymax": 2491
-        },
-        {
-          "text": "2021",
-          "xmin": 296,
-          "ymin": 2526,
-          "xmax": 380,
-          "ymax": 2557
-        },
-        {
-          "text": "Bachelorstudiur",
-          "xmin": 881,
-          "ymin": 2525,
-          "xmax": 1181,
-          "ymax": 2557
-        },
-        {
-          "text": "1",
-          "xmin": 1183,
-          "ymin": 2535,
-          "xmax": 1191,
-          "ymax": 2547
-        },
-        {
-          "text": "Kartographie",
-          "xmin": 1210,
-          "ymin": 2526,
-          "xmax": 1439,
-          "ymax": 2562
-        },
-        {
-          "text": "und",
-          "xmin": 1455,
-          "ymin": 2527,
-          "xmax": 1518,
-          "ymax": 2557
-        },
-        {
-          "text": "Geomedientechnik",
-          "xmin": 1534,
-          "ymin": 2526,
-          "xmax": 1869,
-          "ymax": 2557
-        },
-        {
-          "text": "Abschluss",
-          "xmin": 879,
-          "ymin": 2592,
-          "xmax": 1063,
-          "ymax": 2623
-        },
-        {
-          "text": ":",
-          "xmin": 1063,
-          "ymin": 2602,
-          "xmax": 1070,
-          "ymax": 2616
-        },
-        {
-          "text": "Bachelor",
-          "xmin": 1089,
-          "ymin": 2592,
-          "xmax": 1244,
-          "ymax": 2623
-        },
-        {
-          "text": "of",
-          "xmin": 1257,
-          "ymin": 2592,
-          "xmax": 1293,
-          "ymax": 2623
-        },
-        {
-          "text": "Engineering",
-          "xmin": 1307,
-          "ymin": 2593,
-          "xmax": 1515,
-          "ymax": 2631
-        },
-        {
-          "text": "September",
-          "xmin": 297,
-          "ymin": 2743,
-          "xmax": 496,
-          "ymax": 2779
-        },
-        {
-          "text": "2010",
-          "xmin": 509,
-          "ymin": 2743,
-          "xmax": 597,
-          "ymax": 2773
-        },
-        {
-          "text": "Juli",
-          "xmin": 611,
-          "ymin": 2742,
-          "xmax": 695,
-          "ymax": 2772
-        },
-        {
-          "text": "2017",
-          "xmin": 711,
-          "ymin": 2743,
-          "xmax": 800,
-          "ymax": 2773
-        },
-        {
-          "text": "Gymnasium",
-          "xmin": 880,
-          "ymin": 2743,
-          "xmax": 1094,
-          "ymax": 2781
-        },
-        {
-          "text": "Europai",
-          "xmin": 1112,
-          "ymin": 2743,
-          "xmax": 1244,
-          "ymax": 2776
-        },
-        {
-          "text": "ische",
-          "xmin": 1240,
-          "ymin": 2743,
-          "xmax": 1332,
-          "ymax": 2773
-        },
-        {
-          "text": "Schule",
-          "xmin": 1346,
-          "ymin": 2742,
-          "xmax": 1463,
-          "ymax": 2773
-        },
-        {
-          "text": "Munchen",
-          "xmin": 1480,
-          "ymin": 2743,
-          "xmax": 1642,
-          "ymax": 2773
-        },
-        {
-          "text": "Abschluss",
-          "xmin": 879,
-          "ymin": 2809,
-          "xmax": 1063,
-          "ymax": 2841
-        },
-        {
-          "text": "Europaisches",
-          "xmin": 1099,
-          "ymin": 2810,
-          "xmax": 1338,
-          "ymax": 2847
-        },
-        {
-          "text": "Abitur",
-          "xmin": 1353,
-          "ymin": 2810,
-          "xmax": 1459,
-          "ymax": 2841
-        },
-        {
-          "text": "1",
-          "xmin": 1473,
-          "ymin": 2812,
-          "xmax": 1478,
-          "ymax": 2827
-        },
-        {
-          "text": "(Allgemeine",
-          "xmin": 1478,
-          "ymin": 2808,
-          "xmax": 1683,
-          "ymax": 2845
-        },
-        {
-          "text": "Hochschulreife",
-          "xmin": 1699,
-          "ymin": 2808,
-          "xmax": 1968,
-          "ymax": 2841
-        },
-        {
-          "text": "September",
-          "xmin": 297,
-          "ymin": 2893,
-          "xmax": 496,
-          "ymax": 2930
-        },
-        {
-          "text": "2005",
-          "xmin": 509,
-          "ymin": 2893,
-          "xmax": 597,
-          "ymax": 2924
-        },
-        {
-          "text": "|",
-          "xmin": 611,
-          "ymin": 2909,
-          "xmax": 618,
-          "ymax": 2912
-        },
-        {
-          "text": "Juli",
-          "xmin": 633,
-          "ymin": 2892,
-          "xmax": 696,
-          "ymax": 2924
-        },
-        {
-          "text": "2010",
-          "xmin": 710,
-          "ymin": 2893,
-          "xmax": 800,
-          "ymax": 2924
-        },
-        {
-          "text": "Grundschule",
-          "xmin": 880,
-          "ymin": 2892,
-          "xmax": 1104,
-          "ymax": 2924
-        },
-        {
-          "text": "Europaische",
-          "xmin": 1122,
-          "ymin": 2893,
-          "xmax": 1340,
-          "ymax": 2927
-        },
-        {
-          "text": "Schule",
-          "xmin": 1356,
-          "ymin": 2892,
-          "xmax": 1474,
-          "ymax": 2924
-        },
-        {
-          "text": "Muncher",
-          "xmin": 1490,
-          "ymin": 2893,
-          "xmax": 1652,
-          "ymax": 2924
-        },
-        {
-          "text": "Seite",
-          "xmin": 2080,
-          "ymin": 3409,
-          "xmax": 2168,
-          "ymax": 3439
-        },
-        {
-          "text": "1/2",
-          "xmin": 2194,
-          "ymin": 3409,
-          "xmax": 2250,
-          "ymax": 3439
-        }
-      ],
-      "raw_text": "Lebenslauf Name Martin Stobbelaar Anschrift Sollheir 4/2 5300 Hallwang E-Mail martin.stobbelaar@stud plus.ac.at Mobil +43 6703576780 geb. 4. | August 1999 Berufliche Laufbahn September 2019 | Februar Planungsgesellschaft Stadt Land Verkehr Munchen 2020 Praktikum in der Verkehrsplanung Aufgaben StraBenbestandsklassifizierunger Verkehrsprognosen Verkehrszahlungen, Verkehrsuntersuchunger Verkehrsbefragung Uberprufung Befahrbarkeit von Tiefgaragen und Anlieferung mit Fahrkurven Erstellung von CAD Planen Juni 2015 - Juni 2015 Sky, Unterfohring 2 Wochen Schulpraktikum Abteilung Business & Distribution Services Bereich Product & Operations Aufgaben Zusammenstellen von PowerPoint Prasentationen sowie Durchfuhrungen von Sicherheitstests Ausbildung Oktober 2021 | heute Paris-Lodron-Universita Salzburg Masterstudi ium Applied Geoinformatics Oktober 2017 | September Hochschule fur angewandte Wissenschaften Munchen 2021 Bachelorstudiur 1 Kartographie und Geomedientechnik Abschluss : Bachelor of Engineering September 2010 Juli 2017 Gymnasium Europai ische Schule Munchen Abschluss Europaisches Abitur 1 (Allgemeine Hochschulreife September 2005 | Juli 2010 Grundschule Europaische Schule Muncher Seite 1/2 "
+      "name": "Trafficon - Traffic Consultants GmbH",
+      "position": "Studentischer Praktikant",
+      "startDate": "2024-03-31",
+      "endDate": "2024-05-30",
+      "highlights": [],
+      "summary": "Masterand - Thema Radverkehr",
+      "url": "https://www.linkedin.com/company/18100751",
+      "location": "Salzburg, Salzburg, Österreich"
     },
     {
-      "page": 1,
-      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/e316b9a9-1087-415e-a5ef-2451907feead-2.jpeg?ik-s=cb08a4e91f6f127eef9ad4a1d468831183fbb122&ik-t=1731414144",
-      "size": {
-        "width": 2479,
-        "height": 3508
-      },
-      "words": [
-        {
-          "text": "Kenntni",
-          "xmin": 300,
-          "ymin": 343,
-          "xmax": 508,
-          "ymax": 390
-        },
-        {
-          "text": "isse",
-          "xmin": 498,
-          "ymin": 343,
-          "xmax": 620,
-          "ymax": 390
-        },
-        {
-          "text": "&",
-          "xmin": 642,
-          "ymin": 343,
-          "xmax": 674,
-          "ymax": 389
-        },
-        {
-          "text": "Fahi",
-          "xmin": 703,
-          "ymin": 341,
-          "xmax": 814,
-          "ymax": 392
-        },
-        {
-          "text": "igkei",
-          "xmin": 799,
-          "ymin": 340,
-          "xmax": 940,
-          "ymax": 406
-        },
-        {
-          "text": "iten",
-          "xmin": 933,
-          "ymin": 343,
-          "xmax": 1034,
-          "ymax": 390
-        },
-        {
-          "text": "Sprachen",
-          "xmin": 297,
-          "ymin": 506,
-          "xmax": 466,
-          "ymax": 543
-        },
-        {
-          "text": "Deutsch",
-          "xmin": 881,
-          "ymin": 506,
-          "xmax": 1025,
-          "ymax": 537
-        },
-        {
-          "text": "Muttersprache",
-          "xmin": 1051,
-          "ymin": 506,
-          "xmax": 1313,
-          "ymax": 543
-        },
-        {
-          "text": "Niederlandisch",
-          "xmin": 881,
-          "ymin": 572,
-          "xmax": 1145,
-          "ymax": 604
-        },
-        {
-          "text": "Muttersprache",
-          "xmin": 1172,
-          "ymin": 573,
-          "xmax": 1433,
-          "ymax": 610
-        },
-        {
-          "text": "Englisch",
-          "xmin": 881,
-          "ymin": 639,
-          "xmax": 1028,
-          "ymax": 677
-        },
-        {
-          "text": "FlieBend",
-          "xmin": 1054,
-          "ymin": 638,
-          "xmax": 1203,
-          "ymax": 671
-        },
-        {
-          "text": "Franzosisch",
-          "xmin": 881,
-          "ymin": 706,
-          "xmax": 1093,
-          "ymax": 737
-        },
-        {
-          "text": "Grundkenntnisse",
-          "xmin": 1120,
-          "ymin": 706,
-          "xmax": 1422,
-          "ymax": 737
-        },
-        {
-          "text": "Itali",
-          "xmin": 881,
-          "ymin": 772,
-          "xmax": 940,
-          "ymax": 803
-        },
-        {
-          "text": "ienisch",
-          "xmin": 936,
-          "ymin": 773,
-          "xmax": 1058,
-          "ymax": 803
-        },
-        {
-          "text": "Grundkenntnisse",
-          "xmin": 1084,
-          "ymin": 773,
-          "xmax": 1387,
-          "ymax": 803
-        },
-        {
-          "text": "PC-Kenntnisse",
-          "xmin": 297,
-          "ymin": 856,
-          "xmax": 562,
-          "ymax": 887
-        },
-        {
-          "text": "MS",
-          "xmin": 881,
-          "ymin": 856,
-          "xmax": 937,
-          "ymax": 885
-        },
-        {
-          "text": "Office",
-          "xmin": 951,
-          "ymin": 854,
-          "xmax": 1055,
-          "ymax": 887
-        },
-        {
-          "text": "Python",
-          "xmin": 881,
-          "ymin": 923,
-          "xmax": 1003,
-          "ymax": 959
-        },
-        {
-          "text": "JavaScript",
-          "xmin": 1025,
-          "ymin": 923,
-          "xmax": 1220,
-          "ymax": 960
-        },
-        {
-          "text": "Java",
-          "xmin": 1236,
-          "ymin": 923,
-          "xmax": 1318,
-          "ymax": 954
-        },
-        {
-          "text": "HTML",
-          "xmin": 1344,
-          "ymin": 923,
-          "xmax": 1450,
-          "ymax": 954
-        },
-        {
-          "text": "XML",
-          "xmin": 1471,
-          "ymin": 923,
-          "xmax": 1552,
-          "ymax": 954
-        },
-        {
-          "text": "CSS",
-          "xmin": 1574,
-          "ymin": 923,
-          "xmax": 1647,
-          "ymax": 954
-        },
-        {
-          "text": "SQL",
-          "xmin": 1667,
-          "ymin": 923,
-          "xmax": 1739,
-          "ymax": 954
-        },
-        {
-          "text": "Autodesk",
-          "xmin": 879,
-          "ymin": 989,
-          "xmax": 1047,
-          "ymax": 1019
-        },
-        {
-          "text": "3Ds",
-          "xmin": 1061,
-          "ymin": 989,
-          "xmax": 1126,
-          "ymax": 1019
-        },
-        {
-          "text": "Max",
-          "xmin": 1144,
-          "ymin": 989,
-          "xmax": 1217,
-          "ymax": 1019
-        },
-        {
-          "text": "Blender.",
-          "xmin": 1241,
-          "ymin": 988,
-          "xmax": 1376,
-          "ymax": 1019
-        },
-        {
-          "text": "Agisoft",
-          "xmin": 1392,
-          "ymin": 988,
-          "xmax": 1518,
-          "ymax": 1025
-        },
-        {
-          "text": "Metashape",
-          "xmin": 1534,
-          "ymin": 989,
-          "xmax": 1733,
-          "ymax": 1026
-        },
-        {
-          "text": "ArcGI",
-          "xmin": 879,
-          "ymin": 1056,
-          "xmax": 975,
-          "ymax": 1087
-        },
-        {
-          "text": "IS",
-          "xmin": 971,
-          "ymin": 1056,
-          "xmax": 1000,
-          "ymax": 1087
-        },
-        {
-          "text": "QGIS",
-          "xmin": 1023,
-          "ymin": 1056,
-          "xmax": 1112,
-          "ymax": 1088
-        },
-        {
-          "text": "eCoginition",
-          "xmin": 1133,
-          "ymin": 1056,
-          "xmax": 1335,
-          "ymax": 1096
-        },
-        {
-          "text": "PostgreSQL/PostGIS",
-          "xmin": 1359,
-          "ymin": 1056,
-          "xmax": 1732,
-          "ymax": 1095
-        },
-        {
-          "text": "Openlayers",
-          "xmin": 1757,
-          "ymin": 1055,
-          "xmax": 1954,
-          "ymax": 1091
-        },
-        {
-          "text": "OCAD",
-          "xmin": 880,
-          "ymin": 1123,
-          "xmax": 984,
-          "ymax": 1154
-        },
-        {
-          "text": "AutoCAD",
-          "xmin": 1004,
-          "ymin": 1123,
-          "xmax": 1165,
-          "ymax": 1154
-        },
-        {
-          "text": "VISUM",
-          "xmin": 1185,
-          "ymin": 1123,
-          "xmax": 1304,
-          "ymax": 1154
-        },
-        {
-          "text": "AutoTurn",
-          "xmin": 1328,
-          "ymin": 1123,
-          "xmax": 1491,
-          "ymax": 1154
-        },
-        {
-          "text": "Adobe",
-          "xmin": 879,
-          "ymin": 1189,
-          "xmax": 992,
-          "ymax": 1219
-        },
-        {
-          "text": "Programme",
-          "xmin": 1008,
-          "ymin": 1189,
-          "xmax": 1219,
-          "ymax": 1225
-        },
-        {
-          "text": "1",
-          "xmin": 1234,
-          "ymin": 1189,
-          "xmax": 1240,
-          "ymax": 1207
-        },
-        {
-          "text": "Illustrator",
-          "xmin": 1240,
-          "ymin": 1186,
-          "xmax": 1416,
-          "ymax": 1219
-        },
-        {
-          "text": "InDesi",
-          "xmin": 1437,
-          "ymin": 1189,
-          "xmax": 1543,
-          "ymax": 1219
-        },
-        {
-          "text": "ign",
-          "xmin": 1540,
-          "ymin": 1190,
-          "xmax": 1589,
-          "ymax": 1225
-        },
-        {
-          "text": "Photoshop",
-          "xmin": 1614,
-          "ymin": 1189,
-          "xmax": 1808,
-          "ymax": 1225
-        },
-        {
-          "text": "Fihrerschei",
-          "xmin": 297,
-          "ymin": 1339,
-          "xmax": 509,
-          "ymax": 1370
-        },
-        {
-          "text": "in",
-          "xmin": 504,
-          "ymin": 1340,
-          "xmax": 530,
-          "ymax": 1369
-        },
-        {
-          "text": "Klasse",
-          "xmin": 881,
-          "ymin": 1338,
-          "xmax": 997,
-          "ymax": 1370
-        },
-        {
-          "text": "B",
-          "xmin": 1013,
-          "ymin": 1339,
-          "xmax": 1032,
-          "ymax": 1369
-        },
-        {
-          "text": "Seite",
-          "xmin": 2080,
-          "ymin": 3409,
-          "xmax": 2168,
-          "ymax": 3439
-        },
-        {
-          "text": "2/2",
-          "xmin": 2192,
-          "ymin": 3409,
-          "xmax": 2250,
-          "ymax": 3439
-        }
-      ],
-      "raw_text": "Kenntni isse & Fahi igkei iten Sprachen Deutsch Muttersprache Niederlandisch Muttersprache Englisch FlieBend Franzosisch Grundkenntnisse Itali ienisch Grundkenntnisse PC-Kenntnisse MS Office Python JavaScript Java HTML XML CSS SQL Autodesk 3Ds Max Blender. Agisoft Metashape ArcGI IS QGIS eCoginition PostgreSQL/PostGIS Openlayers OCAD AutoCAD VISUM AutoTurn Adobe Programme 1 Illustrator InDesi ign Photoshop Fihrerschei in Klasse B Seite 2/2 "
+      "name": "DataScience Service GmbH",
+      "position": "Studentischer Praktikant",
+      "startDate": "2023-10-31",
+      "endDate": "2024-02-28",
+      "highlights": [],
+      "summary": "Geoinformatics and Data Science",
+      "url": "https://www.linkedin.com/company/27030847",
+      "location": "Salzburg, Salzburg, Österreich"
+    },
+    {
+      "name": "PSLV Planungsgesellschaft Stadt-Land-Verkehr GmbH",
+      "position": "Studentischer Praktikant",
+      "startDate": "2019-09-30",
+      "endDate": "2020-02-28",
+      "highlights": [],
+      "summary": "Verkehrsanalysen, Straßenbestandsklassifizierungen, Befahrbarkeitsprüfung und ähnliches",
+      "url": "https://www.linkedin.com/company/36529321",
+      "location": "München, Bayern, Deutschland"
     }
-  ]
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Paris Lodron Universität Salzburg",
+      "area": "Geoinformation",
+      "studyType": "Master of Science - MS",
+      "startDate": "2021-12-31",
+      "endDate": "2024-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Hochschule München",
+      "area": "Kartografie und Geomedientechnik",
+      "studyType": "Bachelor of Engineering - BE",
+      "startDate": "2017-09-30",
+      "endDate": "2021-08-31",
+      "score": "2.4",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Gitlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Science",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programmiersprache)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geoinformationssysteme (GIS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AutoCAD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Designprogramme",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agisoft PhotoScan",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Autodesk 3ds Max",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcGIS-Produkte",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "de",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Deutsch"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "Englisch"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "Niederländisch"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
 }
