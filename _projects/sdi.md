@@ -65,4 +65,3 @@ The **MIGE (MIgrations GErmany) project** aims to create a spatial data infrastr
 
 
 
-{% endraw %}
