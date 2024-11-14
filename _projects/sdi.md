@@ -12,6 +12,8 @@ related_publications: false
 
 The **MIGE (MIgrations GErmany) project** aims to create a spatial data infrastructure (SDI) to visualize migration data in Germany, leveraging an open GIS architecture. The project involved multiple phases, including data acquisition from reliable sources like Eurostat and Destatis, data preprocessing and integration, and implementation into a PostGIS database. The SDI system allows the data to be accessed as web services, enabling interactive and user-friendly presentations.
 
+---
+
 #### Key Points
 
 - **Data Sources & Processing**: Population migration data was cleaned and spatially linked using NUTS codes, which were essential for dashboard visualizations.
@@ -59,6 +61,8 @@ The **MIGE (MIgrations GErmany) project** aims to create a spatial data infrastr
     </div>
 
 <br>
+
+---
 
 **Full documentation:**
 
