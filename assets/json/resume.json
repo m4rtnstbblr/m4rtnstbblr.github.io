@@ -71,11 +71,11 @@
       "endDate": "2021-08-31",
       "score": "2.4",
       "courses": []
-    }
+    },
     {
       "institution": "Europäische Schule München",
-      "area": "Kartografie und Geomedientechnik",
-      "studyType": "European Baccalaureate",
+      "area": "European Baccalaureate",
+      "studyType": "Allgemeine Hochschulreife",
       "startDate": "2005-09-01",
       "endDate": "2017-06-31",
       "score": "7.1/10",
