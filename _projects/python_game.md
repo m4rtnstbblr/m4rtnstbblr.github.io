@@ -2,7 +2,7 @@
 layout: page
 title: Python Geography Game
 description: Application Development
-img: assets/img/py_game.jpg
+img: assets/img/py_game.png
 importance: 3
 category: work
 related_publications: false
