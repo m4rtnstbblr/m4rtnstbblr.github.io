@@ -2,7 +2,7 @@
 layout: page
 title: Analysis and Modeling
 description: Various story maps showcasing different tools
-img: assets/img/storymaps.png
+img: assets/img/sunshine.jpeg
 importance: 3
 category: work
 related_publications: false
