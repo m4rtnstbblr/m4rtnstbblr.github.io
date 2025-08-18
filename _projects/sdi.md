@@ -2,7 +2,7 @@
 layout: page
 title: Building a spatial database infrastructure
 description: MIGE - MIgrations GErmany  - A interactive dashboard
-img: assets/img/MIGE.jpg
+img: assets/img/MIGE.png
 importance: 1
 category: work
 related_publications: false
