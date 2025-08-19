@@ -1,10 +1,12 @@
 ---
 layout: page
 title: CO2 Dashboard
-description: Mapping Global CO2 Emissions with ArcGIS Dashboards
+description: |
+  Mapping Global CO2 Emissions with ArcGIS Dashboards  
+  <br><br> Disclaimer – partially password protected
 img: assets/img/co2_new.png
 redirect: https://storymaps.arcgis.com/stories/a500d110d284457d8e2b09f9f1470a4c
-importance: 5
+importance: 6
 category: work
 ---
 

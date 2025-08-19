@@ -7,13 +7,13 @@ nav_order: 4
 horizontal: false
 ---
 
+### Summary
+
 My master's thesis introduces a method for assessing urban cycling infrastructure by analyzing mobility data in the city of Salzburg. The core idea is to compare the shortest possible bike routes with "bikeability-optimized" routes between origins and destinations derived from commuter and mobile phone data. By identifying where significant detours are necessary to find safer or more comfortable cycling paths, the method pinpoints specific road segments that are critical to the network but lack adequate infrastructure, offering a data-driven basis for urban planning decisions.
 
 ---
 
-### Key points:
-
-<br>
+### Key points
 
 - **Data-Driven Methodology**: The thesis utilizes two main origin-destination (OD) datasets: commuter data from Statistik Austria and mobile phone data from the network provider Drei. This dual-source approach allows for a comprehensive analysis of both regular commuting patterns and general daily travel.The bike infrastructure data is based on OpenStreetMap and processed with the NetAScore tool to calculate a "bikeability index" for each road segment.
 

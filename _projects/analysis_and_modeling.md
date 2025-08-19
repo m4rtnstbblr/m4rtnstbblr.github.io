@@ -3,14 +3,12 @@ layout: page
 title: Methods of spatial analysis
 description: Collection of story maps that demonstrate spatial analysis tools available in ArcGIS Pro and ArcGIS Online.
 img: assets/img/sunshine.jpeg
-importance: 4
+importance: 3
 category: work
 related_publications: false
 ---
 
-This series of story maps were created in context of the Methods in Spatial Analysis module.
-
-Look at the story maps:
+Following story maps were created in context of the Methods in Spatial Analysis module:
 
 ---
 
